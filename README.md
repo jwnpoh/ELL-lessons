@@ -1,3 +1,3 @@
 # ELL-lessons
 
-A repo to host my revealjs/remarkjs lesson slides.
+A repo to host my ELL lesson slides.
